@@ -91,7 +91,7 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 6. Ejecuta el proyecto en tu entorno local:
    ```bash
    flutter run
-Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
+Nota: Asegúrate de tener Flutter y Dart correctamente instalados (Flutter version 3.24.5)
 
 ---
 
